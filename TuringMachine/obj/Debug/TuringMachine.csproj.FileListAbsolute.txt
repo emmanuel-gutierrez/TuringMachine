@@ -1,0 +1,6 @@
+c:\users\emmanuel\documents\visual studio 2013\Projects\TuringMachine\TuringMachine\bin\Debug\TuringMachine.exe.config
+c:\users\emmanuel\documents\visual studio 2013\Projects\TuringMachine\TuringMachine\bin\Debug\TuringMachine.exe
+c:\users\emmanuel\documents\visual studio 2013\Projects\TuringMachine\TuringMachine\bin\Debug\TuringMachine.pdb
+c:\users\emmanuel\documents\visual studio 2013\Projects\TuringMachine\TuringMachine\obj\Debug\TuringMachine.csprojResolveAssemblyReference.cache
+c:\users\emmanuel\documents\visual studio 2013\Projects\TuringMachine\TuringMachine\obj\Debug\TuringMachine.exe
+c:\users\emmanuel\documents\visual studio 2013\Projects\TuringMachine\TuringMachine\obj\Debug\TuringMachine.pdb
